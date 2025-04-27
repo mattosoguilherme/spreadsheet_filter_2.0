@@ -1,0 +1,5 @@
+Flask
+flasgger
+pandas
+openpyxl  # Para leitura de arquivos Excel (.xlsx)
+xlwings
