@@ -44,7 +44,7 @@ def filter_spreadsheet():
       400:
         description: Erro, nenhum arquivo enviado (caso você precise processar um arquivo).
     """
-    file_path = os.path.join("c:/arkg.solutions/solutions/agentes/maju/spreadsheet_filter_2.0/data/", 'controle.xlsm')
+    file_path = os.path.join("c:/arkg.solutions/solutions/agentes/maju/spreadsheet_filter/data/", 'controle.xlsm')
     output_file = os.path.join("c:/arkg.solutions/solutions/agentes/maju/spreadsheet_filter_2.0/out/", 'clientes.json')
 
     # Verifica se o parâmetro 'sheet_name' foi enviado na URL, se não, usa "ABRIL 2025"

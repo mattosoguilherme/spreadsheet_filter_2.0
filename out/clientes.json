@@ -1,0 +1,3166 @@
+[
+    {
+        "nome": "VITHORIA CAROLLINY SANTANA DA SILVA",
+        "telefone": "11959200671",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "31/03/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 2,
+                "produto": "BOMBOM DE POTE",
+                "total": 24.0,
+                "data": "25/04/2025",
+                "id_produto": 140
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "23/03/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "20/03/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "20/03/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "17/03/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "14/03/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "12/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "02/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "31/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 186.0
+    },
+    {
+        "nome": "DYOVANNA JANUARIO MARCHESE",
+        "telefone": "11932597821",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 3,
+                "produto": "CX DOCE",
+                "total": 36.0,
+                "data": "31/03/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "11/04/2025",
+                "id_produto": 102
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. MARACUJA",
+                "total": 12.0,
+                "data": "31/04/2025",
+                "id_produto": 144
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. LIMÃO",
+                "total": 12.0,
+                "data": "31/04/2025",
+                "id_produto": 145
+            }
+        ],
+        "total_comanda": 118.0
+    },
+    {
+        "nome": "CARINA",
+        "telefone": "11993634590",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO MARACUJINA",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 103
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 3,
+                "produto": "CX DOCE",
+                "total": 36.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "15/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX BRIGAD. MARACUJA",
+                "total": 24.0,
+                "data": "30/04/2025",
+                "id_produto": 144
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. MARACUJA",
+                "total": 12.0,
+                "data": "02/05/2025",
+                "id_produto": 144
+            }
+        ],
+        "total_comanda": 186.0
+    },
+    {
+        "nome": "YASMIN ROZEIRA",
+        "telefone": "11939544037",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "30/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 46.0
+    },
+    {
+        "nome": "LUANA RODRIGUES",
+        "telefone": "11971614549",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "OVO TRUF. MARACUJA 250G",
+                "total": 44.9,
+                "data": "19/04/2025",
+                "id_produto": 121
+            },
+            {
+                "quantidade": 1,
+                "produto": "OVO ESPEC. KINDER 250G",
+                "total": 49.9,
+                "data": "19/04/2025",
+                "id_produto": 128
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "16/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. MARACUJA",
+                "total": 12.0,
+                "data": "02/05/2025",
+                "id_produto": 144
+            }
+        ],
+        "total_comanda": 164.8
+    },
+    {
+        "nome": "MIRIAM MARIA",
+        "telefone": "11982757475",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "TRUFA MARACUJA ",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 101
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 102
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "OVO ESPEC. NUTTELA 500G",
+                "total": 99.9,
+                "data": "18/04/2025",
+                "id_produto": 133
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "16/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "15/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 3,
+                "produto": "CX DOCE",
+                "total": 36.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 2,
+                "produto": "BRIGADEIRO",
+                "total": 24.0,
+                "data": "11/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "11/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "30/04/2025",
+                "id_produto": 142
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX. BICHO DE PÉ",
+                "total": 12.0,
+                "data": "30/04/2025",
+                "id_produto": 143
+            }
+        ],
+        "total_comanda": 319.9
+    },
+    {
+        "nome": "MARIA EDUARDA ABREU",
+        "telefone": "11914797854",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "TRUFA MARACUJA ",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 101
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "17/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 2,
+                "produto": "PAVÊ",
+                "total": 20.0,
+                "data": "30/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 140.0
+    },
+    {
+        "nome": "OTAVIO",
+        "telefone": "11961271147",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "TRUFA MARACUJA ",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 101
+            },
+            {
+                "quantidade": 2,
+                "produto": "SURPRESA DE UVA",
+                "total": 24.0,
+                "data": "24/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "17/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "11/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 84.0
+    },
+    {
+        "nome": "STEFANY FV",
+        "telefone": "11973095036",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "TRUFA CHOCOLATE",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 137
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 36.0
+    },
+    {
+        "nome": "IGOR ",
+        "telefone": "11939401910",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 102
+            }
+        ],
+        "total_comanda": 22.0
+    },
+    {
+        "nome": "CINTIA FANE",
+        "telefone": "11913468862",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO MARACUJINA",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 103
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 102
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 6,
+                "produto": "BOLO",
+                "total": 60.0,
+                "data": "16/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 138.0
+    },
+    {
+        "nome": "ANA MAXIMO",
+        "telefone": "11914529088",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "17/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "TRUFA CHOCOLATE",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 137
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. MARACUJA",
+                "total": 12.0,
+                "data": "02/05/2025",
+                "id_produto": 144
+            }
+        ],
+        "total_comanda": 106.0
+    },
+    {
+        "nome": "ANA",
+        "telefone": "11983693391",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "RIAN",
+        "telefone": "11971875260",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 3,
+                "produto": "SURPRESA DE UVA",
+                "total": 36.0,
+                "data": "24/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 118.0
+    },
+    {
+        "nome": "MALU LEONEL",
+        "telefone": "11973439114",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 60.0
+    },
+    {
+        "nome": "JENNIFER MAYARA",
+        "telefone": "11964370561",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. MARACUJA",
+                "total": 12.0,
+                "data": "02/05/2025",
+                "id_produto": 144
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "POLI POCKET",
+        "telefone": "11994748434",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO MARACUJINA",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 103
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 2,
+                "produto": "BOLO",
+                "total": 20.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "30/04/2025",
+                "id_produto": 142
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX. BICHO DE PÉ",
+                "total": 12.0,
+                "data": "30/04/2025",
+                "id_produto": 143
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. MARACUJA",
+                "total": 12.0,
+                "data": "30/04/2025",
+                "id_produto": 144
+            }
+        ],
+        "total_comanda": 100.0
+    },
+    {
+        "nome": "ENAILE FERREIRA CARVALHO",
+        "telefone": "11945840292",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO MARACUJINA",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 103
+            },
+            {
+                "quantidade": 1,
+                "produto": "OVO TRAD. SUPRESA DE UVA 500G",
+                "total": 82.9,
+                "data": "22/04/2025",
+                "id_produto": 117
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO ANIVERSÁRIO 1KG",
+                "total": 69.9,
+                "data": "29/04/2025",
+                "id_produto": 141
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. MARACUJA",
+                "total": 12.0,
+                "data": "02/05/2025",
+                "id_produto": 144
+            }
+        ],
+        "total_comanda": 196.8
+    },
+    {
+        "nome": "RHYLAINE KAROLINA",
+        "telefone": "11974870027",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 102
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 94
+            }
+        ],
+        "total_comanda": 32.0
+    },
+    {
+        "nome": "SABRINA PEREIRA",
+        "telefone": "11949399292",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 102
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "17/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 34.0
+    },
+    {
+        "nome": "TATIANE SOUSA",
+        "telefone": "11944482284",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO MARACUJINA",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 103
+            }
+        ],
+        "total_comanda": 10.0
+    },
+    {
+        "nome": "GIULIA RAMALHO",
+        "telefone": "11986163783",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "17/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "30/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 46.0
+    },
+    {
+        "nome": "RUAN  ",
+        "telefone": "11997138204",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 102
+            }
+        ],
+        "total_comanda": 10.0
+    },
+    {
+        "nome": "GUSTAVO ",
+        "telefone": "11941268090",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 102
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "15/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "15/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. MARACUJA",
+                "total": 12.0,
+                "data": "02/05/2025",
+                "id_produto": 144
+            }
+        ],
+        "total_comanda": 42.0
+    },
+    {
+        "nome": "HELENA MANKORA",
+        "telefone": "11998447091",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "MATHEUS AMARAL ",
+        "telefone": "11959369758",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. LIMÃO",
+                "total": 12.0,
+                "data": "30/04/2025",
+                "id_produto": 145
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "NAIARA CLAUDINO",
+        "telefone": "11948155260",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "12/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "TORTA",
+                "total": 10.0,
+                "data": "01/05/2025",
+                "id_produto": 136
+            }
+        ],
+        "total_comanda": 46.0
+    },
+    {
+        "nome": "LARISSA RODRIGUES NASCIMENTO",
+        "telefone": "11974122382",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "12/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "31/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 58.0
+    },
+    {
+        "nome": "VITOR AUGUSTO DE SOUZA GOMES",
+        "telefone": "11939054736",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 102
+            },
+            {
+                "quantidade": 3,
+                "produto": "BOMBOM DE POTE",
+                "total": 36.0,
+                "data": "25/04/2025",
+                "id_produto": 140
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "31/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 68.0
+    },
+    {
+        "nome": "ISABELA RODRIGUES BRUM",
+        "telefone": "11966492606",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOMBOM DE POTE",
+                "total": 12.0,
+                "data": "25/04/2025",
+                "id_produto": 140
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "12/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 60.0
+    },
+    {
+        "nome": "DISLANY DE JESUS SILVA",
+        "telefone": "11962474003",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 2,
+                "produto": "BOMBOM DE POTE MORANGO",
+                "total": 24.0,
+                "data": "25/04/2025",
+                "id_produto": 139
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "15/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "11/04/2025",
+                "id_produto": 102
+            }
+        ],
+        "total_comanda": 92.0
+    },
+    {
+        "nome": "SUPER AMANDA",
+        "telefone": "11977760176",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "BRIGADEIRO",
+                "total": 24.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "ALEX NUNES DE SOUZA",
+        "telefone": "11915300885",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 102
+            },
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "11/04/2025",
+                "id_produto": 102
+            }
+        ],
+        "total_comanda": 80.0
+    },
+    {
+        "nome": "TAMMY (SUPER MÍDIAS)",
+        "telefone": "0",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 102
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "12/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "12/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 94
+            },
+            {
+                "quantidade": 1,
+                "produto": "OVO ESPEC. KIT KAT 350G",
+                "total": 69.9,
+                "data": "17/04/2025",
+                "id_produto": 129
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. MARACUJA",
+                "total": 12.0,
+                "data": "30/04/2025",
+                "id_produto": 144
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. LIMÃO",
+                "total": 12.0,
+                "data": "30/04/2025",
+                "id_produto": 145
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. MARACUJA",
+                "total": 12.0,
+                "data": "02/05/2025",
+                "id_produto": 144
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "31/04/2025",
+                "id_produto": 142
+            },
+            {
+                "quantidade": 2,
+                "produto": "TORTA",
+                "total": 20.0,
+                "data": "01/05/2025",
+                "id_produto": 136
+            }
+        ],
+        "total_comanda": 229.9
+    },
+    {
+        "nome": "CARLA GABRIELLY DE OLIVEIRA LOPES",
+        "telefone": "11912764053",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "28/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "12/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "PALOMA LUIZ BOTELHO",
+        "telefone": "11946123952",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO MARACUJINA",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 103
+            }
+        ],
+        "total_comanda": 10.0
+    },
+    {
+        "nome": "GABRIEL MISAEL DOS SANTOS COSTA",
+        "telefone": "11968571041",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "28/04/2025",
+                "id_produto": 102
+            }
+        ],
+        "total_comanda": 10.0
+    },
+    {
+        "nome": "TAINAN",
+        "telefone": "11914183024",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "28/03/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "27/03/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "26/03/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "26/03/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "25/03/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "21/03/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "20/03/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "01/04/2025",
+                "id_produto": 106
+            }
+        ],
+        "total_comanda": 164.0
+    },
+    {
+        "nome": "LARISSA DANTAS DA SILVA",
+        "telefone": "11947131975",
+        "vendedor": "KARINNA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "27/03/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "20/03/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "19/03/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "24/03/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "TORTA",
+                "total": 10.0,
+                "data": "24/03/2025",
+                "id_produto": 136
+            }
+        ],
+        "total_comanda": 92.0
+    },
+    {
+        "nome": "THAUANY DOS SANTOS MARTINS",
+        "telefone": "11981536575",
+        "vendedor": "KARINNA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "20/03/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "16/03/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "13/02/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "24/03/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "11/02/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "31/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 104.0
+    },
+    {
+        "nome": "RITA CASSIA",
+        "telefone": "11992026761",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "TAUANE DOS SANTOS SILVA",
+        "telefone": "11968544054",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "15/04/2025",
+                "id_produto": 102
+            },
+            {
+                "quantidade": 3,
+                "produto": "SURPRESA DE UVA",
+                "total": 36.0,
+                "data": "11/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 4,
+                "produto": "OVO ESPEC. KINDER 350G",
+                "total": 279.6,
+                "data": "17/04/2025",
+                "id_produto": 131
+            },
+            {
+                "quantidade": 1,
+                "produto": "OVO TRAD. SUPRESA DE UVA 500G",
+                "total": 82.9,
+                "data": "17/04/2025",
+                "id_produto": 117
+            },
+            {
+                "quantidade": 1,
+                "produto": "OVO TRUF. MARACUJA 500G",
+                "total": 84.9,
+                "data": "17/04/2025",
+                "id_produto": 125
+            }
+        ],
+        "total_comanda": 493.4
+    },
+    {
+        "nome": "DAIANE APOLONIO BISPO DOS SANTOS",
+        "telefone": "11971669969",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "MARIA EDUARDA BARRETO DE PAULA",
+        "telefone": "11957849656",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 24.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "15/04/2025",
+                "id_produto": 102
+            },
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "11/04/2025",
+                "id_produto": 102
+            }
+        ],
+        "total_comanda": 80.0
+    },
+    {
+        "nome": "GUSTAVO HUMBERTO ",
+        "telefone": "11932055412",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "MONICA",
+        "telefone": "11971701251",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "OVO TRAD. NINHO C/ MORANGO 250G",
+                "total": 85.8,
+                "data": "25/04/2025",
+                "id_produto": 108
+            },
+            {
+                "quantidade": 1,
+                "produto": "OVO TRAD. BEIJINHO 250G",
+                "total": 42.9,
+                "data": "25/04/2025",
+                "id_produto": 110
+            },
+            {
+                "quantidade": 1,
+                "produto": "OVO TRUF. BRIGADEIRO 250G",
+                "total": 44.9,
+                "data": "25/04/2025",
+                "id_produto": 120
+            },
+            {
+                "quantidade": 4,
+                "produto": "CX DOCE",
+                "total": 48.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 3,
+                "produto": "CX DOCE",
+                "total": 36.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "30/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 291.6
+    },
+    {
+        "nome": "GUSTAVO SANTOS ",
+        "telefone": "11937333247",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "OVO TRAD. NINHO C/ MORANGO 250G",
+                "total": 42.9,
+                "data": "25/04/2025",
+                "id_produto": 108
+            }
+        ],
+        "total_comanda": 42.9
+    },
+    {
+        "nome": "ANA PAULA",
+        "telefone": "11990162996",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "15/04/2025",
+                "id_produto": 106
+            }
+        ],
+        "total_comanda": 22.0
+    },
+    {
+        "nome": "LARISSA DE MELO",
+        "telefone": "11964862907",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "OVO ESPEC. NUTTELA 500G",
+                "total": 99.9,
+                "data": "22/04/2025",
+                "id_produto": 133
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX. BICHO DE PÉ",
+                "total": 12.0,
+                "data": "30/04/2025",
+                "id_produto": 143
+            }
+        ],
+        "total_comanda": 123.9
+    },
+    {
+        "nome": "ELAINE",
+        "telefone": "11973792742",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "17/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 36.0
+    },
+    {
+        "nome": "AMANDA",
+        "telefone": "11980203485",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 96
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "KAUANE",
+        "telefone": "11978239989",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "15/04/2025",
+                "id_produto": 106
+            }
+        ],
+        "total_comanda": 22.0
+    },
+    {
+        "nome": "NYLCE",
+        "telefone": "11953199539",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "ANDRESSA OLIVEIRA",
+        "telefone": "11963046707",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "SURPRESA DE UVA",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 96
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "24/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "30/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 46.0
+    },
+    {
+        "nome": "AGATHA FORTUNATO",
+        "telefone": "11978001641",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "OVO TRAD. BEIJINHO 350G",
+                "total": 125.8,
+                "data": "18/04/2025",
+                "id_produto": 114
+            },
+            {
+                "quantidade": 1,
+                "produto": "OVO ESPEC. KINDER 350G",
+                "total": 69.9,
+                "data": "18/04/2025",
+                "id_produto": 131
+            },
+            {
+                "quantidade": 2,
+                "produto": "OVO ESPEC. NUTTELA 350G",
+                "total": 139.8,
+                "data": "17/04/2025",
+                "id_produto": 130
+            }
+        ],
+        "total_comanda": 335.5
+    },
+    {
+        "nome": "DUDA BARBOSA",
+        "telefone": "11961383924",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "OVO TRAD. NINHO C/ MORANGO 250G",
+                "total": 42.9,
+                "data": "18/04/2025",
+                "id_produto": 108
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "17/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            }
+        ],
+        "total_comanda": 64.9
+    },
+    {
+        "nome": "GABRIELLI SENA",
+        "telefone": "11953578085",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "BRIGADEIRO",
+                "total": 24.0,
+                "data": "17/04/2025",
+                "id_produto": 94
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "FLAVIA ",
+        "telefone": "11951000822",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "17/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 2,
+                "produto": "BOLO",
+                "total": 20.0,
+                "data": "15/04/2025",
+                "id_produto": 106
+            }
+        ],
+        "total_comanda": 32.0
+    },
+    {
+        "nome": "RAISSA NASCIMENTO",
+        "telefone": "11974917662",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 94
+            }
+        ],
+        "total_comanda": 22.0
+    },
+    {
+        "nome": "MALU",
+        "telefone": "11954988066",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOMBOM DE POTE MARACUJA ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 99
+            }
+        ],
+        "total_comanda": 22.0
+    },
+    {
+        "nome": "MARIA EDUARDA MIGRIORI",
+        "telefone": "11930268299",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 22.0
+    },
+    {
+        "nome": "THAYNARA BIANCA",
+        "telefone": "11991326379",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            }
+        ],
+        "total_comanda": 10.0
+    },
+    {
+        "nome": "VITOR HUGO",
+        "telefone": "11997856707",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "15/04/2025",
+                "id_produto": 106
+            }
+        ],
+        "total_comanda": 20.0
+    },
+    {
+        "nome": "SHEILA SOUZA",
+        "telefone": "11983258616",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 34.0
+    },
+    {
+        "nome": "ANGEL JENIFER",
+        "telefone": "11995792896",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "17/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "30/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 32.0
+    },
+    {
+        "nome": "GILSON",
+        "telefone": "11968813826",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 22.0
+    },
+    {
+        "nome": "RAQUEL MOURA",
+        "telefone": "11933741348",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "17/04/2025",
+                "id_produto": 106
+            }
+        ],
+        "total_comanda": 10.0
+    },
+    {
+        "nome": "ENZO",
+        "telefone": "11948873121",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "MANUELA",
+        "telefone": "11973449123",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "CAROLINA ALBURQUERQUE",
+        "telefone": "11972873903",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "GEOVANA HELENA",
+        "telefone": "11978214216",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "MILENA",
+        "telefone": "11958078086",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "JOYCE",
+        "telefone": "11983607158",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "16/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "ISABELLY SIQUEIRA",
+        "telefone": "11975984765",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "LARA PORTELA",
+        "telefone": "11973616736",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "MARIA BEATRIZ ",
+        "telefone": "11912257153",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "JADE",
+        "telefone": "11915759217",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO",
+                "total": 10.0,
+                "data": "15/04/2025",
+                "id_produto": 106
+            }
+        ],
+        "total_comanda": 10.0
+    },
+    {
+        "nome": "GIOVANA HARA",
+        "telefone": "11974067428",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "15/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "PAMELA",
+        "telefone": "11994231235",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "LARISSA SILVEIRA",
+        "telefone": "11950391773",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "STEPHANY",
+        "telefone": "11953207077",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "VITORIA  ",
+        "telefone": "11958230211",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "SARAH",
+        "telefone": "11934943411",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "FERNANDA TARGINO ",
+        "telefone": "11992762242",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "Sarah Menezes",
+        "telefone": "11954501055",
+        "vendedor": "ANA CAROLINA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "Vitória Souza",
+        "telefone": "11932614609",
+        "vendedor": "ANA CAROLINA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BOMBOM DE POTE MARACUJA ",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 99
+            }
+        ],
+        "total_comanda": 36.0
+    },
+    {
+        "nome": "Débora Santana",
+        "telefone": "11999197881",
+        "vendedor": "ANA CAROLINA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOMBOM DE POTE MARACUJA ",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 99
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "Ana Carolina Coutinho",
+        "telefone": "11942839671",
+        "vendedor": "ANA CAROLINA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "CASQUINHA DA LULU",
+                "total": 24.0,
+                "data": "14/04/2025",
+                "id_produto": 135
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "Ana Vitória Rocha Gomes",
+        "telefone": "11948814368",
+        "vendedor": "ANA CAROLINA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "Maikom Vinícius",
+        "telefone": "11993129427",
+        "vendedor": "ANA CAROLINA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CASQUINHA DA LULU",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 135
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "Guilherme Canhedo",
+        "telefone": "11975566582",
+        "vendedor": "ANA CAROLINA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "14/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "KAROLINA BERGAMO",
+        "telefone": "11934895406",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 3,
+                "produto": "CX DOCE",
+                "total": 36.0,
+                "data": "12/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 36.0
+    },
+    {
+        "nome": "ISADORA FERNANDA LEAL",
+        "telefone": "11933588520",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "CX DOCE",
+                "total": 24.0,
+                "data": "12/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "MARIA EDUARDA SILVA ",
+        "telefone": "11961005168",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "12/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "TAUAN",
+        "telefone": "11945347604",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 105
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "GEOVANA BORGES",
+        "telefone": "11915071973",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX DOCE",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 105
+            },
+            {
+                "quantidade": 1,
+                "produto": "BRIGADEIRO",
+                "total": 12.0,
+                "data": "29/04/2025",
+                "id_produto": 94
+            }
+        ],
+        "total_comanda": 24.0
+    },
+    {
+        "nome": "LETICIA SOARES DOS SANTOS SILVA",
+        "telefone": "11911469526",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            },
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "31/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 22.0
+    },
+    {
+        "nome": "EVELIN KAUANE ALVES DE MATTOS",
+        "telefone": "11959248144",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "COPO DA FELICIDADE ",
+                "total": 12.0,
+                "data": "11/04/2025",
+                "id_produto": 97
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "JHENIFFER FERREIRA DE OLIVEIRA MOURA",
+        "telefone": "11968760522",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "11/04/2025",
+                "id_produto": 102
+            }
+        ],
+        "total_comanda": 10.0
+    },
+    {
+        "nome": "FABIOLA FREIRE DA SILVA",
+        "telefone": "11917450593",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "BOLO CHOLATUDO",
+                "total": 10.0,
+                "data": "11/04/2025",
+                "id_produto": 102
+            }
+        ],
+        "total_comanda": 10.0
+    },
+    {
+        "nome": "PAULA CRISTINA",
+        "telefone": "24981125714",
+        "vendedor": "KARINNA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 2,
+                "produto": "BOLO",
+                "total": 20.0,
+                "data": "04/01/2025",
+                "id_produto": 106
+            }
+        ],
+        "total_comanda": 20.0
+    },
+    {
+        "nome": "ALINE SUPERVISORA CAU",
+        "telefone": "11930243471",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX. BICHO DE PÉ",
+                "total": 12.0,
+                "data": "30/04/2025",
+                "id_produto": 143
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "MARCIA SANTOS",
+        "telefone": "11963376073",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX. BICHO DE PÉ",
+                "total": 12.0,
+                "data": "30/04/2025",
+                "id_produto": 143
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "MARCELA DO PRADO",
+        "telefone": "11944692476",
+        "vendedor": "GUILHERME",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "CX BRIGAD. LIMÃO",
+                "total": 12.0,
+                "data": "30/04/2025",
+                "id_produto": 145
+            }
+        ],
+        "total_comanda": 12.0
+    },
+    {
+        "nome": "LAVINIA SANTOS DE SOUZA",
+        "telefone": "11950319459",
+        "vendedor": "ISADORA",
+        "sended": false,
+        "pedidos": [
+            {
+                "quantidade": 1,
+                "produto": "PAVÊ",
+                "total": 10.0,
+                "data": "31/04/2025",
+                "id_produto": 142
+            }
+        ],
+        "total_comanda": 10.0
+    }
+]
