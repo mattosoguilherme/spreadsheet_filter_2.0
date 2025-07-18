@@ -1,6 +1,6 @@
 # src/services/processor.py
 from datetime import datetime
-import math
+import pandas as pd
 
 def process_data(df):
     clientes = {}
@@ -14,13 +14,25 @@ def process_data(df):
 
         nome = row['CLIENTE']
         # Validação do telefone e remoção de ".0", com tratamento para NaN
-        telefone = str(int(row['TEL'])) if not math.isnan(row['TEL']) else '0'  # Verifica se o valor é NaN
+        tel_value = row['TEL']
+        if pd.isna(tel_value):
+                     telefone = '0'
+        else:
+            try:
+                telefone = str(int(float(tel_value)))
+            except (ValueError, TypeError):
+                telefone = '0'
+
         vendedor = row.get('VENDEDOR', 'NÃO INFORMADO')
         quantidade = row['QTD']
         produto = row['PRODUTO']
         total = row['TOTAL']
         data_pedido = row.get('DATA', 'DATA NÃO INFORMADA')
         id_produto =  row.get('ID PRODUTO')
+        operacao = row['OPERAÇÃO']
+        celula = row['CELULA']
+        
+        
 
         if isinstance(data_pedido, datetime):
             data_pedido = data_pedido.strftime('%d/%m/%Y')
@@ -30,6 +42,8 @@ def process_data(df):
                 "nome": nome,
                 "telefone": telefone,
                 "vendedor": vendedor,
+                "operacao": operacao,
+                "celula": celula,
                 "sended": False,
                 "pedidos": [],
                 "total_comanda": 0
