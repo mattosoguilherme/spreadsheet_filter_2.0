@@ -2,6 +2,7 @@
 from datetime import datetime
 import pandas as pd
 
+
 def process_data(df):
     clientes = {}
     df.columns = df.columns.str.strip()
@@ -9,6 +10,7 @@ def process_data(df):
     print(df.columns)
 
     for _, row in df.iterrows():
+        
         if row['STATUS'] != 'NÃO RECEBIDO':
             continue
 
@@ -16,7 +18,7 @@ def process_data(df):
         # Validação do telefone e remoção de ".0", com tratamento para NaN
         tel_value = row['TEL']
         if pd.isna(tel_value):
-                     telefone = '0'
+            telefone = '0'
         else:
             try:
                 telefone = str(int(float(tel_value)))
@@ -28,11 +30,10 @@ def process_data(df):
         produto = row['PRODUTO']
         total = row['TOTAL']
         data_pedido = row.get('DATA', 'DATA NÃO INFORMADA')
-        id_produto =  row.get('ID PRODUTO')
+        id_produto = row.get('ID PRODUTO')
         operacao = row['OPERAÇÃO']
         celula = row['CELULA']
-        
-        
+        status = row['STATUS']
 
         if isinstance(data_pedido, datetime):
             data_pedido = data_pedido.strftime('%d/%m/%Y')
@@ -54,7 +55,8 @@ def process_data(df):
             "produto": produto,
             "total": total,
             "data": data_pedido,
-            "id_produto":id_produto
+            "id_produto": id_produto,
+            "status": status
         })
 
         clientes[telefone]["total_comanda"] += total
